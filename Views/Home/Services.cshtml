@@ -1,0 +1,54 @@
+@{
+    ViewData["Title"] = "Services";
+}
+
+<div class="services-container module">
+
+  <h1 class="services-title">Services</h1>
+
+  <div class="container-fluid padding services">
+    <div class="row padding">
+
+      <div class="col-md-4">
+        <div class="card">
+          <img src="/images/img-1.jpeg" alt="cityscapes" class="card-img-top">
+          <div class="card-body">
+            <h4 class="card-title">Lifestyle</h4>
+            <p class="services-p">cityscape text here ... Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+            <a asp-controller="gallery" asp-action="index" class="btn btn-outline-secondary">Explore further!</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card">
+          <img src="/images/img-3.jpeg" alt="Senior portraits" class="card-img-top">
+          <div class="card-body">
+            <h4 class="card-title">Senior Portraits</h4>
+            <p class="services-p">Senior Portrait text here ... Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+            <a asp-controller="gallery" asp-action="index" class="btn btn-outline-secondary">Explore further!</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card">
+          <img src="/images/img-4.jpeg" alt="sports" class="card-img-top">
+          <div class="card-body">
+            <h4 class="card-title">Sporting Events</h4>
+            <p class="services-p">sports text here ... loremLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+            <a asp-controller="gallery" asp-action="index" class="btn btn-outline-secondary">Explore further!</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+ <footer class="border-top footer text-muted">
+    <div class="container">
+        &copy; 2019 - PhotographyPortfolio - <a asp-area="" asp-controller="Home" asp-action="Contact">Contact</a>
+    </div>
+</footer>

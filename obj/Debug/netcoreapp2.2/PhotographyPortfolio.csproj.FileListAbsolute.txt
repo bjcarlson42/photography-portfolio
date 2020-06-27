@@ -1,0 +1,103 @@
+/Users/bjcarlson/Projects/PhotographyPortfolio/PhotographyPortfolio/bin/Debug/netcoreapp2.2/PhotographyPortfolio.deps.json
+/Users/bjcarlson/Projects/PhotographyPortfolio/PhotographyPortfolio/bin/Debug/netcoreapp2.2/PhotographyPortfolio.runtimeconfig.json
+/Users/bjcarlson/Projects/PhotographyPortfolio/PhotographyPortfolio/bin/Debug/netcoreapp2.2/PhotographyPortfolio.runtimeconfig.dev.json
+/Users/bjcarlson/Projects/PhotographyPortfolio/PhotographyPortfolio/bin/Debug/netcoreapp2.2/PhotographyPortfolio.dll
+/Users/bjcarlson/Projects/PhotographyPortfolio/PhotographyPortfolio/bin/Debug/netcoreapp2.2/PhotographyPortfolio.pdb
+/Users/bjcarlson/Projects/PhotographyPortfolio/PhotographyPortfolio/bin/Debug/netcoreapp2.2/PhotographyPortfolio.Views.dll
+/Users/bjcarlson/Projects/PhotographyPortfolio/PhotographyPortfolio/bin/Debug/netcoreapp2.2/PhotographyPortfolio.Views.pdb
+/Users/bjcarlson/Projects/PhotographyPortfolio/PhotographyPortfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.csprojAssemblyReference.cache
+/Users/bjcarlson/Projects/PhotographyPortfolio/PhotographyPortfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.csproj.CoreCompileInputs.cache
+/Users/bjcarlson/Projects/PhotographyPortfolio/PhotographyPortfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.RazorAssemblyInfo.cache
+/Users/bjcarlson/Projects/PhotographyPortfolio/PhotographyPortfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.RazorAssemblyInfo.cs
+/Users/bjcarlson/Projects/PhotographyPortfolio/PhotographyPortfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.AssemblyInfoInputs.cache
+/Users/bjcarlson/Projects/PhotographyPortfolio/PhotographyPortfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.AssemblyInfo.cs
+/Users/bjcarlson/Projects/PhotographyPortfolio/PhotographyPortfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.TagHelpers.input.cache
+/Users/bjcarlson/Projects/PhotographyPortfolio/PhotographyPortfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.TagHelpers.output.cache
+/Users/bjcarlson/Projects/PhotographyPortfolio/PhotographyPortfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.RazorCoreGenerate.cache
+/Users/bjcarlson/Projects/PhotographyPortfolio/PhotographyPortfolio/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/bjcarlson/Projects/PhotographyPortfolio/PhotographyPortfolio/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/bjcarlson/Projects/PhotographyPortfolio/PhotographyPortfolio/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/bjcarlson/Projects/PhotographyPortfolio/PhotographyPortfolio/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/bjcarlson/Projects/PhotographyPortfolio/PhotographyPortfolio/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/bjcarlson/Projects/PhotographyPortfolio/PhotographyPortfolio/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/bjcarlson/Projects/PhotographyPortfolio/PhotographyPortfolio/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/bjcarlson/Projects/PhotographyPortfolio/PhotographyPortfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.RazorTargetAssemblyInfo.cache
+/Users/bjcarlson/Projects/PhotographyPortfolio/PhotographyPortfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.RazorTargetAssemblyInfo.cs
+/Users/bjcarlson/Projects/PhotographyPortfolio/PhotographyPortfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.Views.pdb
+/Users/bjcarlson/Projects/PhotographyPortfolio/PhotographyPortfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.dll
+/Users/bjcarlson/Projects/PhotographyPortfolio/PhotographyPortfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.pdb
+/Users/bjcarlson/Projects/PhotographyPortfolio/PhotographyPortfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.csproj.CopyComplete
+/Users/bjcarlson/Projects/PhotographyPortfolio/PhotographyPortfolio/obj/Debug/netcoreapp2.2/Razor/Views/Home/About.g.cshtml.cs
+/Users/bjcarlson/Projects/PhotographyPortfolio/PhotographyPortfolio/obj/Debug/netcoreapp2.2/Razor/Views/Home/Contact.g.cshtml.cs
+/Users/bjcarlson/Projects/PhotographyPortfolio/PhotographyPortfolio/obj/Debug/netcoreapp2.2/Razor/Views/Home/Services.g.cshtml.cs
+/Users/bjcarlson/Projects/PhotographyPortfolio/PhotographyPortfolio/obj/Debug/netcoreapp2.2/Razor/Views/Gallery/Index.g.cshtml.cs
+/Users/bjcarlson/Dev/github/photography-portfolio-website/Photography Portfolio/bin/Debug/netcoreapp2.2/PhotographyPortfolio.deps.json
+/Users/bjcarlson/Dev/github/photography-portfolio-website/Photography Portfolio/bin/Debug/netcoreapp2.2/PhotographyPortfolio.runtimeconfig.json
+/Users/bjcarlson/Dev/github/photography-portfolio-website/Photography Portfolio/bin/Debug/netcoreapp2.2/PhotographyPortfolio.runtimeconfig.dev.json
+/Users/bjcarlson/Dev/github/photography-portfolio-website/Photography Portfolio/bin/Debug/netcoreapp2.2/PhotographyPortfolio.dll
+/Users/bjcarlson/Dev/github/photography-portfolio-website/Photography Portfolio/bin/Debug/netcoreapp2.2/PhotographyPortfolio.pdb
+/Users/bjcarlson/Dev/github/photography-portfolio-website/Photography Portfolio/bin/Debug/netcoreapp2.2/PhotographyPortfolio.Views.dll
+/Users/bjcarlson/Dev/github/photography-portfolio-website/Photography Portfolio/bin/Debug/netcoreapp2.2/PhotographyPortfolio.Views.pdb
+/Users/bjcarlson/Dev/github/photography-portfolio-website/Photography Portfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.csprojAssemblyReference.cache
+/Users/bjcarlson/Dev/github/photography-portfolio-website/Photography Portfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.RazorAssemblyInfo.cache
+/Users/bjcarlson/Dev/github/photography-portfolio-website/Photography Portfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.RazorAssemblyInfo.cs
+/Users/bjcarlson/Dev/github/photography-portfolio-website/Photography Portfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.AssemblyInfoInputs.cache
+/Users/bjcarlson/Dev/github/photography-portfolio-website/Photography Portfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.AssemblyInfo.cs
+/Users/bjcarlson/Dev/github/photography-portfolio-website/Photography Portfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.TagHelpers.input.cache
+/Users/bjcarlson/Dev/github/photography-portfolio-website/Photography Portfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.TagHelpers.output.cache
+/Users/bjcarlson/Dev/github/photography-portfolio-website/Photography Portfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.RazorCoreGenerate.cache
+/Users/bjcarlson/Dev/github/photography-portfolio-website/Photography Portfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.RazorTargetAssemblyInfo.cache
+/Users/bjcarlson/Dev/github/photography-portfolio-website/Photography Portfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.RazorTargetAssemblyInfo.cs
+/Users/bjcarlson/Dev/github/photography-portfolio-website/Photography Portfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.Views.pdb
+/Users/bjcarlson/Dev/github/photography-portfolio-website/Photography Portfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.dll
+/Users/bjcarlson/Dev/github/photography-portfolio-website/Photography Portfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.pdb
+/Users/bjcarlson/Dev/github/photography-portfolio-website/Photography Portfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.csproj.CopyComplete
+/Users/bjcarlson/Dev/github/photography-portfolio-website/Photography Portfolio/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/bjcarlson/Dev/github/photography-portfolio-website/Photography Portfolio/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/bjcarlson/Dev/github/photography-portfolio-website/Photography Portfolio/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/bjcarlson/Dev/github/photography-portfolio-website/Photography Portfolio/obj/Debug/netcoreapp2.2/Razor/Views/Gallery/Index.cshtml.g.cs
+/Users/bjcarlson/Dev/github/photography-portfolio-website/Photography Portfolio/obj/Debug/netcoreapp2.2/Razor/Views/Home/About.cshtml.g.cs
+/Users/bjcarlson/Dev/github/photography-portfolio-website/Photography Portfolio/obj/Debug/netcoreapp2.2/Razor/Views/Home/Contact.cshtml.g.cs
+/Users/bjcarlson/Dev/github/photography-portfolio-website/Photography Portfolio/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.cshtml.g.cs
+/Users/bjcarlson/Dev/github/photography-portfolio-website/Photography Portfolio/obj/Debug/netcoreapp2.2/Razor/Views/Home/Services.cshtml.g.cs
+/Users/bjcarlson/Dev/github/photography-portfolio-website/Photography Portfolio/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/bjcarlson/Dev/github/photography-portfolio-website/Photography Portfolio/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.cshtml.g.cs
+/Users/bjcarlson/Dev/github/photography-portfolio-website/Photography Portfolio/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/bjcarlson/Dev/github/photography-portfolio-website/Photography Portfolio/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/bjcarlson/Dev/github/photography-portfolio-website/Photography Portfolio/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/bjcarlson/Dev/github/photography-portfolio-website/Photography Portfolio/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/bjcarlson/Dev/github/photography-portfolio/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/bjcarlson/Dev/github/photography-portfolio/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/bjcarlson/Dev/github/photography-portfolio/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/bjcarlson/Dev/github/photography-portfolio/bin/Debug/netcoreapp2.2/PhotographyPortfolio.deps.json
+/Users/bjcarlson/Dev/github/photography-portfolio/bin/Debug/netcoreapp2.2/PhotographyPortfolio.runtimeconfig.json
+/Users/bjcarlson/Dev/github/photography-portfolio/bin/Debug/netcoreapp2.2/PhotographyPortfolio.runtimeconfig.dev.json
+/Users/bjcarlson/Dev/github/photography-portfolio/bin/Debug/netcoreapp2.2/PhotographyPortfolio.dll
+/Users/bjcarlson/Dev/github/photography-portfolio/bin/Debug/netcoreapp2.2/PhotographyPortfolio.pdb
+/Users/bjcarlson/Dev/github/photography-portfolio/bin/Debug/netcoreapp2.2/PhotographyPortfolio.Views.dll
+/Users/bjcarlson/Dev/github/photography-portfolio/bin/Debug/netcoreapp2.2/PhotographyPortfolio.Views.pdb
+/Users/bjcarlson/Dev/github/photography-portfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.csprojAssemblyReference.cache
+/Users/bjcarlson/Dev/github/photography-portfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.RazorAssemblyInfo.cache
+/Users/bjcarlson/Dev/github/photography-portfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.RazorAssemblyInfo.cs
+/Users/bjcarlson/Dev/github/photography-portfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.AssemblyInfoInputs.cache
+/Users/bjcarlson/Dev/github/photography-portfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.AssemblyInfo.cs
+/Users/bjcarlson/Dev/github/photography-portfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.TagHelpers.input.cache
+/Users/bjcarlson/Dev/github/photography-portfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.TagHelpers.output.cache
+/Users/bjcarlson/Dev/github/photography-portfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.RazorCoreGenerate.cache
+/Users/bjcarlson/Dev/github/photography-portfolio/obj/Debug/netcoreapp2.2/Razor/Views/Gallery/Index.cshtml.g.cs
+/Users/bjcarlson/Dev/github/photography-portfolio/obj/Debug/netcoreapp2.2/Razor/Views/Home/About.cshtml.g.cs
+/Users/bjcarlson/Dev/github/photography-portfolio/obj/Debug/netcoreapp2.2/Razor/Views/Home/Contact.cshtml.g.cs
+/Users/bjcarlson/Dev/github/photography-portfolio/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.cshtml.g.cs
+/Users/bjcarlson/Dev/github/photography-portfolio/obj/Debug/netcoreapp2.2/Razor/Views/Home/Services.cshtml.g.cs
+/Users/bjcarlson/Dev/github/photography-portfolio/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/bjcarlson/Dev/github/photography-portfolio/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.cshtml.g.cs
+/Users/bjcarlson/Dev/github/photography-portfolio/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/bjcarlson/Dev/github/photography-portfolio/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/bjcarlson/Dev/github/photography-portfolio/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/bjcarlson/Dev/github/photography-portfolio/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/bjcarlson/Dev/github/photography-portfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.RazorTargetAssemblyInfo.cache
+/Users/bjcarlson/Dev/github/photography-portfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.RazorTargetAssemblyInfo.cs
+/Users/bjcarlson/Dev/github/photography-portfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.Views.pdb
+/Users/bjcarlson/Dev/github/photography-portfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.dll
+/Users/bjcarlson/Dev/github/photography-portfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.pdb
+/Users/bjcarlson/Dev/github/photography-portfolio/obj/Debug/netcoreapp2.2/PhotographyPortfolio.csproj.CopyComplete

@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<script>document.body.className += ' fade-out';</script>
+
+<div class="container-home">
+        <img src="images/img-6.jpeg" id="main-picture">
+        <div class="centered main-centered">
+            <div class="heading">
+                <h1 class="heading-bg-txt">Mason Moua</h1>
+            </div>
+            <div class='subheading console-container'>
+                <span id='text'></span>
+                <div class='console-underscore' id='console'>&#47;
+                </div>
+            </div>
+            <div class="body">
+                <h3>Photographer and filmmaker currently residing in the Hartforrd, CT area. I love meeting and working with clients to create something great.</h3>
+            </div>
+            <div class="social-links">
+                <a href="https://www.facebook.com/" target="_blank" class="fa fa-facebook"></a>
+                <a href="https://twitter.com/home" target="_blank" class="fa fa-twitter"></a>
+                <a href="https://www.instagram.com/moua.photography/?hl=en" target="_blank" class="fa fa-instagram"></a>
+            </div>
+            <div class="button">
+                <form method="post">
+                    <button class="btn btn-primary btn-main-page" asp-controller="Gallery" asp-action="Index">Explore</button>
+                </form>
+            </div>
+        </div>
+</div>

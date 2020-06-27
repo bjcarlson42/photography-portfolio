@@ -1,0 +1,44 @@
+@{
+    ViewData["Title"] = "Contact";
+}
+
+<div class="contact-container">
+  <div class="row">
+        <div class="col-sm contact-col">
+            <h1>Send me a messsge!</h1>
+
+            <ul class="contact-list">
+                <li><p>Mason Moua</p></li>
+                <li><p>Hartford, CT Area</p></li>
+                <li><p>masonmoua@gmail.com</p></li>
+                <li><p>860-999-9999</p></li>
+            </ul>
+        </div>
+        <div class="col-sm contact-col">
+            <form asp-controller="Home" asp-action="Index" method="post">
+            <div class="form-group">
+                <h6 class="contact-h6">Name:</h6><input class="form-control" type="text" placeholder="Ben Carlson"/>
+                <span class="text-danger field-validation-valid" data-valmsg-replace="true"></span>
+            </div>
+
+            <div class="form-group">
+                <h6 class="contact-h6">Email:</h6><input class="form-control" type="email" placeholder="benc@example.com"/>
+                <span class="text-danger field-validation-valid" data-valmsg-replace="true"></span>
+            </div>
+
+            <div class="form-group">
+                <h6 class="contact-h6">Subject:</h6><input class="form-control" type="text" placeholder="Schedule a session"/>
+                <span class="text-danger field-validation-valid" data-valmsg-replace="true"></span>
+            </div>
+
+            <div class="form-group">
+                <h6 class="contact-h6">Message:</h6><textarea class="form-control" type="text" placeholder="Message here..."></textarea>
+                <span class="text-danger field-validation-valid" data-valmsg-replace="true"></span>
+            </div>
+            <div class="col"><button type="submit" class="btn btn-primary">Send</button></div>
+        </form>
+        </div>
+    </div>
+</div>
+
+
